@@ -17,7 +17,7 @@
     "morgan": "~1.9.0"
   },
   "devDependencies": {
-    "@pact-foundation/pact": "7.0.3",
-    "start-server-and-test": "^1.7.5"
+    "@pact-foundation/pact": "9.2.2",
+    "start-server-and-test": "^1.11.1"
   }
 }
